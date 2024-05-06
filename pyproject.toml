@@ -7,6 +7,13 @@ authors = ["Marco Di Gennaro <m.di.gennaro@outlook.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 jupyterlab = "^4.1.8"
+pandas = "^2.2.2"
+yfinance = "^0.2.38"
+matplotlib = "^3.8.4"
+jupyterlab-execute-time = "^3.1.2"
+cpi = "^1.1.4"
+scikit-learn = "^1.4.2"
+tensorflow = "^2.16.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
